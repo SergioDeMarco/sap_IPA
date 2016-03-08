@@ -31,7 +31,7 @@ file close _all
 log close _all
 
 cap cd "X:\Dropbox\educ_peru\07_Questionnaires & Data\01_Data\Data administrativa\Data\Clean\Preprint baseline 2015" 
-
+*adding a line
 *****************
 * RURAL DATA V1 *
 *****************
